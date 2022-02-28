@@ -90,6 +90,10 @@
 - Nur Relevante Dinge werden Gefragt
 - Alle Angaben sind Freiwillig
 
+## App
+- Die App wird auf allen Mobilgräten mit Android, iOS und Windows laufen
+- Die App wird auch als Website angeboten für 100% Kompatibilität
+
 ## Frameworks
 - Pytorch
 - Tensorflow
